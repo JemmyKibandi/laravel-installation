@@ -31,10 +31,10 @@
                     @endif
                 @endauth
             </div>
-        @endif -->
+        @endif
         
         <!-- Open the modal using ID.showModal() method -->
-        <!-- <button class="btn" onclick="my_modal_2.showModal()">open modal</button>
+      <button class="btn" onclick="my_modal_2.showModal()">open modal</button>
         <dialog id="my_modal_2" class="modal">
         <form method="dialog" class="modal-box">
         <h3 class="font-bold text-lg">Hello!</h3>
@@ -78,6 +78,8 @@
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">WILL</div>
 <div class="text-4xl font-bold text-pink-500 animate-bounce">BE</div>
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">BACK</div>
+<div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">YEIII</div>
+
 </div>
   <div class="flex justify-center items-center h-screen">
   <div class="grid grid-flow-col gap-5 text-center auto-cols-max">
