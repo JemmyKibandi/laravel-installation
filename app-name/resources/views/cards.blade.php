@@ -11,6 +11,7 @@
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
         <link  rel="icon" href="{{ asset('images/logos.png') }}" />
 
+        <link href="https://cdn.jsdelivr.net/npm/daisyui@3.5.1/dist/full.css" rel="stylesheet" type="text/css" />
         <script src="https://cdn.tailwindcss.com"></script>
         <!-- Styles -->
         <style>
@@ -34,8 +35,9 @@
             </div>
         @endif
         
-        <x-Table/>
-
+        
+<x-cards />
+            </div>
     </body>
 
     </html>

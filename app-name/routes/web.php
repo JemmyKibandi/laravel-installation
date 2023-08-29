@@ -22,3 +22,6 @@ Route::get('/button', function () {
 Route::get('/table', function () {
     return view('table');
 });
+Route::get('/cards', function () {
+    return view('cards');
+});
