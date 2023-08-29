@@ -72,7 +72,8 @@
       </button>
     </div>
     
-</div>
+  </div>
+  <x-Table/>
 <div class="flex flex-col items-center">
 <div class="text-4xl font-bold text-pink-500 animate-bounce">I</div>
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">WILL</div>
@@ -83,6 +84,8 @@
 <x-Inout/>
 <br>
 <x-button/>
+<br>
+
 
 </div>
   <div class="flex justify-center items-center h-screen">
