@@ -78,7 +78,7 @@
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">WILL</div>
 <div class="text-4xl font-bold text-pink-500 animate-bounce">BE</div>
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">BACK</div>
-<div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">YEIII</div>
+<div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">YEIII </div>
 
 </div>
   <div class="flex justify-center items-center h-screen">
