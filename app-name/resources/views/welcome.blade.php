@@ -9,7 +9,7 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-        
+        <link  rel="icon" href="{{ asset('images/logos.png') }}" />
         <link href="https://cdn.jsdelivr.net/npm/daisyui@3.5.1/dist/full.css" rel="stylesheet" type="text/css" />
         <script src="https://cdn.tailwindcss.com"></script>
         <!-- Styles -->
@@ -58,7 +58,9 @@
       </div>
     </div>
     <div class="navbar-center">
-      <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+      <a class="btn btn-ghost normal-case text-xl">
+        <img src="{{ asset('images/logos.png') }}" style="width: 60px; height: 60px;"/>
+      </a>
     </div>
     <div class="navbar-end">
       <button class="btn btn-ghost btn-circle">
@@ -73,7 +75,7 @@
     </div>
     
   </div>
-  <x-Table/>
+  <br>
 <div class="flex flex-col items-center">
 <div class="text-4xl font-bold text-pink-500 animate-bounce">I</div>
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">WILL</div>
@@ -84,11 +86,9 @@
 <x-Inout/>
 <br>
 <x-button/>
-<br>
-
-
 </div>
-  <div class="flex justify-center items-center h-screen">
+<br>
+  <div class="flex justify-center items-center">
   <div class="grid grid-flow-col gap-5 text-center auto-cols-max">
     <div class="flex flex-col p-2 bg-neutral rounded-box text-neutral-content">
       <span class="countdown font-mono text-5xl">
