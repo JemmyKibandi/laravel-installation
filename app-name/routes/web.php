@@ -19,3 +19,6 @@ Route::get('/welcome', function () {
 Route::get('/button', function () {
     return view('button');
 });
+Route::get('/table', function () {
+    return view('table');
+});
