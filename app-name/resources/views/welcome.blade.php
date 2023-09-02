@@ -5,7 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <title>Kibandiii</title>
-        
+        <!-- GSAP -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/TextPlugin.min.js"></script>
+
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
@@ -28,7 +31,7 @@
         <button>close</button>
         </form>
         </dialog>
-        <div class="relative min-h-screen bg-dots-darker bg-center bg-pink-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500">
+        <div class="relative min-h-screen bg-dots-darker bg-center bg-purple-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500">
         @if (Route::has('login'))
             <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right z-10">
                 @auth
@@ -74,19 +77,19 @@
       </button>
     </div>
     
-  </div>
-  <br>
-<div class="flex flex-col items-center">
+  </div><br>
+  <x-Inout/>
+
+  <div class="flex flex-col items-center">
+  <!-- <br>
 <div class="text-4xl font-bold text-pink-500 animate-bounce">I</div>
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">WILL</div>
 <div class="text-4xl font-bold text-pink-500 animate-bounce">BE</div>
 <div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">BACK</div>
-<div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">YEIII </div>
+<div class="text-4xl font-bold text-blue-500 animate-bounce animate-bounce-reverse">YEIII </div> -->
 
-<x-Inout/>
 <br>
-<x-button/>
-</div>
+<!-- <x-button/> -->
 <br>
   <div class="flex justify-center items-center">
   <div class="grid grid-flow-col gap-5 text-center auto-cols-max">
