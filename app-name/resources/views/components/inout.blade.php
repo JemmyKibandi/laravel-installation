@@ -16,7 +16,13 @@
         I have sought assistance in diverse areas, including Laravel, Tailwind CSS, GSAP animations,
           and more. <br>Look at my Projects below 😁
     </p>
-      <button class="btn btn-primary">Scroll to see More</button>
+   <center> <button class="btn btn-primary flex items-center">
+  Scroll to see More
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+    <path d="M7.646 10.854a.5.5 0 00.708 0l4-4a.5.5 0 00-.708-.708L8 9.293l-3.646-3.647a.5.5 0 00-.708.708l4 4a.5.5 0 000 .708z"/>
+    <path fill-rule="evenodd" d="M8 1a.5.5 0 00-.5.5v8.793l-3.646-3.646a.5.5 0 10-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 00-.708-.708L8.5 10.293V1.5a.5.5 0 00-.5-.5z" clip-rule="evenodd"/>
+  </svg>
+</button></center>
     </div>
   </div>
 </div>
