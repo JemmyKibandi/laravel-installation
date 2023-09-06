@@ -16,7 +16,7 @@
         I have sought assistance in diverse areas, including Laravel, Tailwind CSS, GSAP animations,
           and more. <br>Look at my Projects below 😁
     </p>
-      <button class="btn btn-primary">Get Started</button>
+      <button class="btn btn-primary">Scroll to see More</button>
     </div>
   </div>
 </div>
