@@ -29,7 +29,7 @@
 This is all my work with Javascript<BR><BR><BR>
     </p>
     <div class="card-actions">
-      <a class="btn btn-primary" target="blank" href="https://github.com/JemmyKibandi/js-trials" target="blank">Click to view</a>
+      <a class="btn btn-primary" target="blank" href="https://github.com/JemmyKibandi/js-trials" target="blank">Click to view Git repository</a>
     </div>
   </div>    </div>
   </div>
