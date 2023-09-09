@@ -51,7 +51,7 @@ This is all my work with Javascript
    
 </p>
     <div class="card-actions">
-      <button class="btn btn-primary">Click to view Git repository</button>
+      <a class="btn btn-primary" href="https://github.com/JemmyKibandi/laravel-installation" target="blank">Click to view Git repository</a>
     </div>
   </div>    </div>
   </div>
