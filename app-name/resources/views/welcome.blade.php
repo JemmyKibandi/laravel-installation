@@ -79,6 +79,7 @@
     
   </div><br>
   <x-Inout/>
+  
   <x-Projectcards/>
 
   <div class="flex flex-col items-center">
