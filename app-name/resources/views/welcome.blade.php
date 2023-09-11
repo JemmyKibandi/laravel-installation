@@ -77,10 +77,14 @@
       </button>
     </div>
     
-  </div><br>
-  <x-Inout/>
-  
-  <x-Projectcards/>
+  </div>
+  <br>
+            <section id="inout">
+             <x-Inout/>
+            </section>
+            <section id="cards">
+             <x-Projectcards/>
+            </section>
 
   <div class="flex flex-col items-center">
   <!-- <br>
